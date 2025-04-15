@@ -92,4 +92,5 @@ cable_extension/
 Viktor Kubec  
 BUT FIT Brno student  
 MIT License  
-GitHub: [vubeckubec/cable_extension](https://github.com/vubeckubec/cable_extension)
+GitHub: [vubeckubec/cable_extension](https://github.com/vubeckubec/cable_extension)  
+PyPi: [cable_extension](https://pypi.org/project/cable-extension/1.0/)
