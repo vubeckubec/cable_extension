@@ -1,6 +1,9 @@
 """
-forms.py
+project: IBT24/25, xkubec03
+author: Viktor Kubec
+file: forms.py
 
+brief:
 Contains a form (CableCreateForm) to handle the creation and extension of cables
 in NetBox. The form captures necessary cable details, interfaces, and optionally
 creates corresponding InventoryItems for both ends of the cable.

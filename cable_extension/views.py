@@ -1,6 +1,9 @@
 """
-views.py
+project: IBT24/25, xkubec03
+author: Viktor Kubec
+file: views.py
 
+brief:
 Contains view classes for handling cable creation and editing cable extension data.
 These views integrate custom forms for adding new cables with optional inventory items
 and for modifying extended cable information (CableExtension).

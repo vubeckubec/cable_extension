@@ -1,6 +1,9 @@
 """
-plugin.py
+project: IBT24/25, xkubec03
+author: Viktor Kubec
+file: _init__.py
 
+brief:
 Defines the configuration for the "Cable Extension" plugin, which augments NetBox
 cable data and integrates with an inventory system.
 """

@@ -76,6 +76,8 @@ cable_extension/
 ```
 
 ## Changelog
+### v1.0.1
+- Added headers in each file, fixed some comments
 ### v1.0
 - Initial release with custom cable creation form
 - Optional InventoryItem creation on both ends
